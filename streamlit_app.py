@@ -1,3 +1,4 @@
+pip install scikit-learn lightgbm
 
 
 import streamlit as st
