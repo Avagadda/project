@@ -4,6 +4,7 @@
 import streamlit as st
 import pickle
 import numpy as np
+pip install scikit-learn lightgbm
 from sklearn.preprocessing import LabelEncoder
 
 from lightgbm import LGBMRegressor
